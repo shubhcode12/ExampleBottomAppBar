@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="menu 1"
+        android:id="@+id/navMenu1"
+        android:icon="@drawable/ic_favorite_black_24dp"/>
+    <item
+        android:title="menu 2"
+        android:id="@+id/navMenu2"
+        android:icon="@drawable/ic_favorite_black_24dp"/>
+    <item
+        android:title="menu 3"
+        android:id="@+id/navMenu3"
+        android:icon="@drawable/ic_favorite_black_24dp"/>
+    <item
+        android:title="menu 4"
+        android:id="@+id/navMenu4"
+        android:icon="@drawable/ic_favorite_black_24dp"/>
+
+</menu>
