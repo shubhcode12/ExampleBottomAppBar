@@ -1,3 +1,2 @@
 # ExampleBottomAppBar
-
-![Alt Text](https://www.dropbox.com/s/u0xptnvi4tjkyuk/1.gif?dl=0)
+![Alt Text](https://media.giphy.com/media/eJj2Z8zQQ7dECZUEmX/giphy.gif)
